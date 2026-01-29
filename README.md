@@ -15,12 +15,21 @@
 |-----------------------------------------|
 </div>
 
-
 **Kernel Hub** is a full-stack blog application designed for sharing **news, updates, tutorials, and articles** about Linux, open-source software, community events, and the broader Linux ecosystem. Built on the **MERN stack** and fully **Dockerized**, it provides a scalable, production-ready platform for content publishing and community-driven knowledge sharing.
 
 > Kernel Hub is a modern digital platform for the Linux and open-source community.
 
 ---
+## 📸 Screenshot Previews
+
+<div align="center">
+  <img src="./readme/kernelhub.png" width="80%" alt="kernelhub Demo" />
+</div>
+
+> *Preview image showing the kernelhub interface.*
+
+---
+
 
 ## 🚀 Overview
 
